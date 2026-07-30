@@ -85,3 +85,14 @@ Focused on designing and developing intelligent, scalable technology solutions a
 - System Design
 - Technical Documentation
 - Problem Solving
+
+---
+
+## 📚 Education & Certifications
+
+### 🎓 Education
+- Bachelor of Science in Computer Science (BSCS)
+
+### 🏆 Professional Certifications
+- Certified Data Science & AI Engineer
+- Certified Cloud Engineer
