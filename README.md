@@ -35,3 +35,53 @@ Focused on designing and developing intelligent, scalable technology solutions a
 - Amazon Web Services (AWS)
 - Cloud Architecture
 - Scalable Cloud Solutions
+
+  ---
+
+## 🛠 Technology Stack
+
+### 💻 Programming Languages
+- Python
+- JavaScript
+- SQL
+
+### 🤖 Artificial Intelligence & Machine Learning
+- Machine Learning Frameworks
+- Deep Learning Technologies
+- Generative AI Technologies
+- AI Development Tools
+
+### 📊 Data Engineering & Analytics
+- Data Analysis Tools
+- Data Processing Frameworks
+- Data Visualization
+- Data Engineering Technologies
+
+### 🗄 Databases & Data Systems
+- SQL Databases
+- NoSQL Databases
+- Database Management Systems
+- Data Storage Solutions
+
+### ☁ Cloud Computing & Infrastructure
+- Microsoft Azure
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+- Cloud Architecture
+- Cloud Infrastructure
+
+### 🔧 Development & DevOps Tools
+- Git & GitHub
+- Visual Studio Enterprise
+- Visual Studio Code
+- Linux
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+
+### ⚙️ Engineering Practices
+- Version Control
+- Software Development Practices
+- System Design
+- Technical Documentation
+- Problem Solving
