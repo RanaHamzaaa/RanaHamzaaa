@@ -10,7 +10,7 @@ Focused on engineering scalable, reliable and intelligent systems by applying mo
 
 ## 💼 Professional Focus
 
-Focused on designing and developing intelligent, scalable technology solutions across Artificial Intelligence, AI Systems, Machine Learning, Data Engineering and Cloud Platforms.
+Building intelligent and scalable technology solutions across Artificial Intelligence, AI Systems, Machine Learning, Data Engineering and Cloud Platforms.
 
 ### 🤖 Artificial Intelligence
 - AI Systems & Intelligent Applications
@@ -31,10 +31,9 @@ Focused on designing and developing intelligent, scalable technology solutions a
 - Data Processing Pipelines
 
 ### ☁ Cloud Engineering
-- Microsoft Azure
-- Amazon Web Services (AWS)
 - Cloud Architecture
 - Scalable Cloud Solutions
+- Cloud-Based Systems
 
   ---
 
@@ -66,11 +65,10 @@ Focused on designing and developing intelligent, scalable technology solutions a
 ### ☁ Cloud Computing & Infrastructure
 - Microsoft Azure
 - Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
 - Cloud Architecture
 - Cloud Infrastructure
 
-### 🔧 Development & DevOps Tools
+### 🔧 Developer Tools & DevOps
 - Git & GitHub
 - Visual Studio Enterprise
 - Visual Studio Code
@@ -96,3 +94,16 @@ Focused on designing and developing intelligent, scalable technology solutions a
 ### 🏆 Professional Certifications
 - Certified Data Science & AI Engineer
 - Certified Cloud Engineer
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RanaHamzaaa&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://streak-stats.demolab.com?user=RanaHamzaaa&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaHamzaaa&layout=compact&theme=transparent&hide_border=true" />
+</p>
