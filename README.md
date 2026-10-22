@@ -187,9 +187,9 @@ My goal is to use **AI, Data and Cloud** technologies to solve meaningful proble
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -200,8 +200,8 @@ My goal is to use **AI, Data and Cloud** technologies to solve meaningful proble
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Responsive%20UI-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Frontend%20Development-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Responsive%20UI-06B6D4?style=flat-square" alt="Responsive UI"/>
+<img src="https://img.shields.io/badge/Frontend%20Development-8B5CF6?style=flat-square" alt="Frontend Development"/>
 
 </td>
 </tr>
@@ -211,14 +211,14 @@ My goal is to use **AI, Data and Cloud** technologies to solve meaningful proble
 
 <h3>✨ Generative AI &amp; LLMs</h3>
 
-<img src="https://skillicons.dev/icons?i=openai,python,pytorch,tensorflow&perline=4" alt="AI Technologies"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=3" alt="AI Technologies"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-EC4899?style=flat-square" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/AI%20Automation-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-EC4899?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-06B6D4?style=flat-square" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/AI%20Automation-10B981?style=flat-square" alt="AI Automation"/>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -229,9 +229,9 @@ My goal is to use **AI, Data and Cloud** technologies to solve meaningful proble
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SQL-0078D4?style=flat-square" />
-<img src="https://img.shields.io/badge/NoSQL-10B981?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Modeling-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL-0078D4?style=flat-square" alt="SQL"/>
+<img src="https://img.shields.io/badge/NoSQL-10B981?style=flat-square" alt="NoSQL"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-8B5CF6?style=flat-square" alt="Data Modeling"/>
 
 </td>
 </tr>
@@ -245,28 +245,28 @@ My goal is to use **AI, Data and Cloud** technologies to solve meaningful proble
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Authentication-EC4899?style=flat-square" />
-<img src="https://img.shields.io/badge/API%20Integration-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/API%20Integration-06B6D4?style=flat-square" alt="API Integration"/>
+<img src="https://img.shields.io/badge/Authentication-EC4899?style=flat-square" alt="Authentication"/>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<h3>🚢 DevOps &amp; CI/CD</h3>
+<h3>🚀 DevOps &amp; CI/CD</h3>
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,grafana&perline=5" alt="DevOps Technologies"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Containerization-2496ED?style=flat-square" />
-<img src="https://img.shields.io/badge/CI%2FCD-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Monitoring-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Containerization-2496ED?style=flat-square" alt="Containerization"/>
+<img src="https://img.shields.io/badge/CI%2FCD-8B5CF6?style=flat-square" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/Monitoring-FF6F00?style=flat-square" alt="Monitoring"/>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center" valign="top">
+<td colspan="2" width="100%" align="center" valign="top">
 
 <h3>🔧 Developer Tools</h3>
 
@@ -274,11 +274,20 @@ My goal is to use **AI, Data and Cloud** technologies to solve meaningful proble
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Code%20Editor-007ACC?style=flat-square" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+
+<br/><br/>
+
+<b>Version Control · Code Editors · API Testing · Development Environment</b>
 
 </td>
-<td width="50%" align="center" valign="top">
+</tr>
+</table>
+
 
 <h3>⚙️ Engineering Practices</h3>
 
