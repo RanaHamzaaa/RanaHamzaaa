@@ -27,13 +27,12 @@
 <h2 align="center">🧬 About Me</h2>
 
 <table width="100%">
-<tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="1400" height="1" /></td></tr>
 <tr>
 <td colspan="2" width="66%" valign="top" align="center">
 <h3>👨‍💻 Rana Hamza</h3>
 <b>Software Engineer</b><br/><br/>
 I design and build <b>intelligent software solutions</b> using AI systems, machine learning models, data-driven architectures and <b>scalable cloud platforms</b>.<br/><br/>
-My focus is engineering <b>scalable, reliable and intelligent systems</b> with modern software practices, automation and emerging technologies.
+My focus is engineering <b>scalable, reliable and intelligent systems</b> with modern software practices, automation and emerging technologies.<br/><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="1400" height="1" />
 </td>
 <td width="34%" valign="top" align="center">
 <h3>🎓 Education</h3>
@@ -89,43 +88,57 @@ Cloud-Based Systems
 <h2 align="center">🛠️ Technology Stack</h2>
 
 <table width="100%">
-<tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="1400" height="1" /></td></tr>
 <tr>
 <td width="33%" valign="top" align="center">
 <h3>💻 Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,js,mysql&perline=3" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,bash,cpp&perline=5" /><br/><img src="https://img.shields.io/badge/SQL-0078D4?style=flat-square&labelColor=0078D4" />
 </td>
 <td width="33%" valign="top" align="center">
 <h3>🤖 AI &amp; ML</h3>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4" />
 </td>
 <td width="34%" valign="top" align="center">
-<h3>📊 Data &amp; Analytics</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />&nbsp;<br/><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&labelColor=0d1117" />
+<h3>✨ Generative AI &amp; LLMs</h3>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&labelColor=412991" /><img src="https://img.shields.io/badge/LangChain-2E8B57?style=flat-square&labelColor=2E8B57" /><img src="https://img.shields.io/badge/Hugging%20Face-E6A700?style=flat-square&labelColor=E6A700" /><br/><img src="https://img.shields.io/badge/RAG-8957E5?style=flat-square&labelColor=8957E5" /><img src="https://img.shields.io/badge/Prompt%20Engineering-FF2E93?style=flat-square&labelColor=FF2E93" /><img src="https://img.shields.io/badge/Vector%20Databases-00B8D4?style=flat-square&labelColor=00B8D4" />
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center">
-<h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=4" />
+<h3>📊 Data Engineering</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" />&nbsp;<br/><img src="https://img.shields.io/badge/Pandas-5B3FD0?style=flat-square&labelColor=5B3FD0" /><img src="https://img.shields.io/badge/ETL%20Pipelines-00B8D4?style=flat-square&labelColor=00B8D4" /><img src="https://img.shields.io/badge/Power%20BI-C99A00?style=flat-square&labelColor=C99A00" />
 </td>
 <td width="33%" valign="top" align="center">
-<h3>☁️ Cloud</h3>
-<img src="https://skillicons.dev/icons?i=azure,aws&perline=2" />
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=5" />
 </td>
 <td width="34%" valign="top" align="center">
-<h3>🔧 Tools &amp; DevOps</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,docker,kubernetes,githubactions&perline=4" />
+<h3>🧩 Backend &amp; APIs</h3>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,react&perline=5" /><br/><img src="https://img.shields.io/badge/REST%20APIs-8957E5?style=flat-square&labelColor=8957E5" />
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<h3>☁️ Cloud Platforms</h3>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform&perline=4" />
+</td>
+<td width="33%" valign="top" align="center">
+<h3>🚢 DevOps &amp; CI/CD</h3>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,githubactions,linux&perline=6" />
+</td>
+<td width="34%" valign="top" align="center">
+<h3>🔧 Dev Tools</h3>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,jupyter,postman,grafana&perline=5" />
 </td>
 </tr>
 <tr>
 <td colspan="3" align="center">
 <h3>⚙️ Engineering Practices</h3>
-<img src="https://img.shields.io/badge/Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Version%20Control-F05032?style=flat-square" />
 <img src="https://img.shields.io/badge/Software%20Development%20Practices-8957E5?style=flat-square" />
 <img src="https://img.shields.io/badge/System%20Design-00B8D4?style=flat-square" />
 <img src="https://img.shields.io/badge/Technical%20Documentation-FF2E93?style=flat-square" />
 <img src="https://img.shields.io/badge/Problem%20Solving-2088FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation-2E8B57?style=flat-square" /><br/><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="1400" height="1" />
 </td>
 </tr>
 </table>
