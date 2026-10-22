@@ -6,21 +6,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&width=760&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Rana+Hamza;%F0%9F%A4%96+Software+Engineer+%E2%80%94+AI+%26+Machine+Learning;%F0%9F%93%8A+Data+Science%2C+Analytics+%26+Data+Engineering;%E2%98%81%EF%B8%8F+Scalable+Cloud+Solutions+on+Azure+%26+AWS;%E2%9A%A1+Building+intelligent%2C+reliable+systems" alt="Typing animation" />
 </a>
 
-
-
+<br/><br/>
 
 <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEER-00F7FF?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/AI%20%26%20ML-8957E5?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/DATA%20SCIENCE-FF2E93?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/CLOUD-0078D4?style=for-the-badge&labelColor=0d1117" />
 
-
-
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/rana-hamza-22292123b"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge" /></a>
 <a href="https://github.com/RanaHamzaaa?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://img.shields.io/github/followers/RanaHamzaaa?style=for-the-badge&logo=github&color=8957E5&label=Followers&labelColor=0d1117" />
 <img src="https://komarev.com/ghpvc/?username=RanaHamzaaa&label=Profile%20Views&color=00b8d4&labelColor=0d1117&style=for-the-badge" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
@@ -111,8 +110,8 @@ Test, troubleshoot, optimize and refine until it delivers
 
 <div align="center">
 
+I contribute beyond assigned tasks by turning **data into decisions**, **manual work into automation** and **business challenges into technology-driven solutions**.
 
-I contribute beyond assigned tasks by turning data into decisions, manual work into automation and business challenges into technology-driven solutions.
 <img src="https://img.shields.io/badge/OWNERSHIP-8957E5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ACCOUNTABILITY-00B8D4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PROBLEM-SOLVING-FF2E93?style=for-the-badge" />
@@ -145,9 +144,10 @@ I contribute beyond assigned tasks by turning data into decisions, manual work i
 
 <h2 align="center">🎯 Mindset &amp; Goal</h2>
 
-💡 Strong engineering is not measured by how many technologies are used, but by the quality of the solution and the impact it creates.
+> 💡 Strong engineering is not measured by how many technologies are used, but by the **quality of the solution** and the **impact it creates**.
 
-My goal is to use AI, Data and Cloud technologies to solve meaningful problems, improve decision-making, automate inefficient processes, increase productivity and contribute to organizational and client success.
+My goal is to use **AI, Data and Cloud** technologies to solve meaningful problems, improve decision-making, automate inefficient processes, increase productivity and contribute to organizational and client success.
+
 <p align="center"><b>I want my work to be measured by the problems I solve, the quality I deliver and the value I create.</b></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
@@ -157,28 +157,29 @@ My goal is to use AI, Data and Cloud technologies to solve meaningful problems, 
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
-<img src="assets/ai.svg" width="640" alt="Artificial Intelligence card with neural network background" /><br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3" alt="Python, TensorFlow, PyTorch" /><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /><br/><br/>
+<h3>🤖 Artificial Intelligence</h3>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3" alt="Python, TensorFlow, PyTorch" /><br/><br/>
 AI Systems &amp; Intelligent Applications<br/>Generative AI Solutions<br/>AI Automation<br/>AI-Powered Software Development<br/>&nbsp;
 </td>
 <td width="50%" valign="top" align="center">
-<img src="assets/ml.svg" width="640" alt="Machine Learning card with training curve background" /><br/>
-<img src="https://skillicons.dev/icons?i=sklearn,opencv&perline=2" alt="scikit-learn, OpenCV" /><br/><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /><br/><br/>
+<h3>🧠 Machine Learning</h3>
+<img src="https://skillicons.dev/icons?i=sklearn,opencv&perline=2" alt="scikit-learn, OpenCV" /><br/><br/>
 Machine Learning Models<br/>Deep Learning Systems<br/>Model Development &amp; Optimization<br/>Data-Driven Decision Systems<br/>&nbsp;
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
-<img src="assets/data.svg" width="640" alt="Data engineering card with ETL pipeline background" /><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="Apache Spark" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Apache Airflow" />&nbsp;<br/><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" /><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" /><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" /><br/><img src="https://img.shields.io/badge/ETL%2FELT-00B8D4?style=flat-square" alt="ETL/ELT" /><br/><br/>
+<h3>📊 Data Engineering &amp; Analytics</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="Apache Spark" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Apache Airflow" />&nbsp;<br/><img src="https://img.shields.io/badge/Pandas-5B3FD0?style=flat-square" alt="Pandas" /><img src="https://img.shields.io/badge/Power%20BI%20·%20Data%20Analytics-C99A00?style=flat-square" alt="Power BI · Data Analytics" /><img src="https://img.shields.io/badge/ETL-00B8D4?style=flat-square" alt="ETL" /><br/><br/>
 Data Science &amp; Analytics<br/>Data Engineering<br/>Data Processing Pipelines<br/>&nbsp;
 </td>
 <td width="50%" valign="top" align="center">
-<img src="assets/cloud.svg" width="640" alt="Cloud engineering card with distributed cloud infrastructure background" /><br/>
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform&perline=4" alt="Azure, AWS, Google Cloud, Terraform" /><br/><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" /><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Web Services" /><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" /><br/><img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform — Infrastructure as Code" /><br/><br/>
+<h3>☁️ Cloud Engineering</h3>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform&perline=4" alt="Azure, AWS, Google Cloud, Terraform" /><br/><img src="https://img.shields.io/badge/Terraform%20·%20Infrastructure%20as%20Code-7B42BC?style=flat-square" alt="Terraform · Infrastructure as Code" /><br/><br/>
 Cloud Architecture<br/>Scalable Cloud Solutions<br/>Cloud-Based Systems<br/>&nbsp;
 </td>
 </tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="1400" height="1" alt="" /></td></tr>
 </table>
 
 <h2 align="center">🎓 Education &amp; Certifications</h2>
@@ -198,44 +199,45 @@ Cloud Architecture<br/>Scalable Cloud Solutions<br/>Cloud-Based Systems<br/>&nbs
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
-<img src="assets/languages.svg" width="640" alt="Programming languages card with code background" /><br/>
+<h3>💻 Programming Languages</h3>
 <img src="https://skillicons.dev/icons?i=python,js,ts,bash,cpp&perline=5" alt="Python, JavaScript, TypeScript, Bash, C++" /><br/><img src="https://img.shields.io/badge/SQL-0078D4?style=flat-square" alt="SQL" />
 </td>
 <td width="50%" valign="top" align="center">
-<img src="assets/frontend.svg" width="640" alt="Frontend card with browser interface background" /><br/>
+<h3>🎨 Frontend</h3>
 <img src="https://skillicons.dev/icons?i=react&perline=1" alt="React" /><br/><img src="https://img.shields.io/badge/React · Frontend-20232A?style=flat-square" alt="React · Frontend" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
-<img src="assets/genai.svg" width="640" alt="Generative AI and LLM card with embeddings and retrieval pipeline background" /><br/>
+<h3>✨ Generative AI &amp; LLMs</h3>
 <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openai.png" width="44" height="44" alt="OpenAI" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/claude-color.png" width="44" height="44" alt="Claude" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/gemini-color.png" width="44" height="44" alt="Gemini" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langchain-color.png" width="44" height="44" alt="LangChain" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/huggingface-color.png" width="44" height="44" alt="Hugging Face" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/ollama.png" width="44" height="44" alt="Ollama" />&nbsp;<br/><sub><b>Techniques &amp; concepts</b></sub><br/><img src="https://img.shields.io/badge/RAG-8957E5?style=flat-square" alt="RAG" /><img src="https://img.shields.io/badge/Prompt%20Engineering-FF2E93?style=flat-square" alt="Prompt Engineering" /><img src="https://img.shields.io/badge/Vector%20Databases-00B8D4?style=flat-square" alt="Vector Databases" />
 </td>
 <td width="50%" valign="top" align="center">
-<img src="assets/databases.svg" width="640" alt="Databases card with database clusters background" /><br/>
+<h3>🗄️ Databases</h3>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=5" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite" /><br/><img src="https://img.shields.io/badge/SQL-0078D4?style=flat-square" alt="SQL" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
-<img src="assets/backend.svg" width="640" alt="Backend and APIs card with request and response flow background" /><br/>
+<h3>🧩 Backend &amp; APIs</h3>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&perline=4" alt="FastAPI, Flask, Django, Node.js" /><br/><img src="https://img.shields.io/badge/REST%20APIs-8957E5?style=flat-square" alt="REST APIs" />
 </td>
 <td width="50%" valign="top" align="center">
-<img src="assets/devops.svg" width="640" alt="DevOps and CI/CD card with deployment pipeline background" /><br/>
+<h3>🚢 DevOps &amp; CI/CD</h3>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,grafana&perline=4" alt="Docker, Kubernetes, GitHub Actions, Grafana" /><br/><sub><b>Containerization:</b> Docker · Kubernetes &nbsp;|&nbsp; <b>CI/CD:</b> GitHub Actions &nbsp;|&nbsp; <b>Monitoring:</b> Grafana</sub><br/><img src="https://img.shields.io/badge/Automation-2E8B57?style=flat-square" alt="Automation" /><img src="https://img.shields.io/badge/CI/CD%20Pipelines-2088FF?style=flat-square" alt="CI/CD Pipelines" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
-<img src="assets/devtools.svg" width="640" alt="Developer tools card with code editor and terminal background" /><br/>
+<h3>🔧 Developer Tools</h3>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,postman&perline=6" alt="Git, GitHub, VS Code, Visual Studio, Linux, Postman" /><br/><sub><b>Version control:</b> Git · GitHub &nbsp;|&nbsp; <b>IDEs:</b> VS Code · Visual Studio &nbsp;|&nbsp; <b>OS:</b> Linux</sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="assets/practices.svg" width="640" alt="Engineering practices card with version control and architecture background" /><br/>
+<h3>⚙️ Engineering Practices</h3>
 <img src="https://img.shields.io/badge/Version%20Control-F05032?style=flat-square" alt="Version Control" /><img src="https://img.shields.io/badge/Software%20Development%20Practices-8957E5?style=flat-square" alt="Software Development Practices" /><img src="https://img.shields.io/badge/System%20Design-00B8D4?style=flat-square" alt="System Design" /><br/><img src="https://img.shields.io/badge/Technical%20Documentation-FF2E93?style=flat-square" alt="Technical Documentation" /><img src="https://img.shields.io/badge/Problem%20Solving-2088FF?style=flat-square" alt="Problem Solving" /><img src="https://img.shields.io/badge/Automation-2E8B57?style=flat-square" alt="Automation" />
 </td>
 </tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="1400" height="1" alt="" /></td></tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
@@ -269,11 +271,12 @@ Cloud Architecture<br/>Scalable Cloud Solutions<br/>Cloud-Based Systems<br/>&nbs
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=8957E5&center=true&vCenter=true&width=600&lines=Open+to+collaboration+on+AI+%26+Data+projects+%F0%9F%A4%9D;Let's+build+intelligent+systems+together+%F0%9F%9A%80" />
 
+<br/>
 
 <a href="https://www.linkedin.com/in/rana-hamza-22292123b"><img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20LINKEDIN-0A66C2?style=for-the-badge" /></a>
 <a href="https://github.com/RanaHamzaaa"><img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E93,50:8957E5,100:00F7FF&height=140&section=footer&text=Build%20Intelligent%20%E2%80%A2%20Engineer%20with%20Care%20%E2%80%A2%20Keep%20Learning&fontSize=16&fontColor=ffffff&fontAlignY=68" width="100%" />
 
