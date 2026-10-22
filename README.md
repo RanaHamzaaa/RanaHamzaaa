@@ -246,10 +246,24 @@ My goal is to use **AI, Data and Cloud** technologies to solve meaningful proble
 
 
 
-<td width="50%" valign="top" align="center">
-<h3>⚙️ Engineering Practices</h3>
-<img src="https://img.shields.io/badge/Version%20Control-F05032?style=flat-square" alt="Version Control" /><img src="https://img.shields.io/badge/Software%20Development%20Practices-8957E5?style=flat-square" alt="Software Development Practices" /><img src="https://img.shields.io/badge/System%20Design-00B8D4?style=flat-square" alt="System Design" /><br/><img src="https://img.shields.io/badge/Technical%20Documentation-FF2E93?style=flat-square" alt="Technical Documentation" /><img src="https://img.shields.io/badge/Problem%20Solving-2088FF?style=flat-square" alt="Problem Solving" /><img src="https://img.shields.io/badge/Automation-2E8B57?style=flat-square" alt="Automation" />
-</td>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%" alt="" />
+
+<h2 align="center">⚙️ Engineering Practices</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VERSION%20CONTROL-F45135?style=for-the-badge" alt="Version Control"/>
+  <img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT%20PRACTICES-8957E5?style=for-the-badge" alt="Software Development Practices"/>
+  <img src="https://img.shields.io/badge/SYSTEM%20DESIGN-00B8D4?style=for-the-badge" alt="System Design"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TECHNICAL%20DOCUMENTATION-FF2E93?style=for-the-badge" alt="Technical Documentation"/>
+  <img src="https://img.shields.io/badge/PROBLEM%20SOLVING-2088FF?style=for-the-badge" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/AUTOMATION-2E8B57?style=for-the-badge" alt="Automation"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%" alt="" />
+
 
 
 
