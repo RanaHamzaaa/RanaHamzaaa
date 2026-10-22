@@ -174,45 +174,129 @@ My goal is to use **AI, Data and Cloud** technologies to solve meaningful proble
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
+
 <h2 align="center">🛠️ Technology Stack</h2>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
+
 <h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,js,ts,bash,cpp&perline=5" alt="Python, JavaScript, TypeScript, Bash, C++" /><br/><img src="https://img.shields.io/badge/SQL-0078D4?style=flat-square" alt="SQL" />
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java&perline=5" alt="Programming Languages"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
+
 <h3>🎨 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react&perline=1" alt="React" /><br/><img src="https://img.shields.io/badge/React · Frontend-20232A?style=flat-square" alt="React · Frontend" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5" alt="Frontend Technologies"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Responsive%20UI-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Frontend%20Development-8B5CF6?style=flat-square" />
+
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
+
 <h3>✨ Generative AI &amp; LLMs</h3>
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openai.png" width="44" height="44" alt="OpenAI" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/claude-color.png" width="44" height="44" alt="Claude" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/gemini-color.png" width="44" height="44" alt="Gemini" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langchain-color.png" width="44" height="44" alt="LangChain" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/huggingface-color.png" width="44" height="44" alt="Hugging Face" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/ollama.png" width="44" height="44" alt="Ollama" />&nbsp;<br/><sub><b>Techniques &amp; concepts</b></sub><br/><img src="https://img.shields.io/badge/RAG-8957E5?style=flat-square" alt="RAG" /><img src="https://img.shields.io/badge/Prompt%20Engineering-FF2E93?style=flat-square" alt="Prompt Engineering" /><img src="https://img.shields.io/badge/Vector%20Databases-00B8D4?style=flat-square" alt="Vector Databases" />
+
+<img src="https://skillicons.dev/icons?i=openai,python,pytorch,tensorflow&perline=4" alt="AI Technologies"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-EC4899?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Automation-10B981?style=flat-square" />
+
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
+
 <h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=5" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite" /><br/><img src="https://img.shields.io/badge/SQL-0078D4?style=flat-square" alt="SQL" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=5" alt="Database Technologies"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/NoSQL-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Modeling-8B5CF6?style=flat-square" />
+
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
+
 <h3>🧩 Backend &amp; APIs</h3>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&perline=4" alt="FastAPI, Flask, Django, Node.js" /><br/><img src="https://img.shields.io/badge/REST%20APIs-8957E5?style=flat-square" alt="REST APIs" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask&perline=5" alt="Backend Technologies"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Authentication-EC4899?style=flat-square" />
+<img src="https://img.shields.io/badge/API%20Integration-06B6D4?style=flat-square" />
+
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
+
 <h3>🚢 DevOps &amp; CI/CD</h3>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,grafana&perline=4" alt="Docker, Kubernetes, GitHub Actions, Grafana" /><br/><sub><b>Containerization:</b> Docker · Kubernetes &nbsp;|&nbsp; <b>CI/CD:</b> GitHub Actions &nbsp;|&nbsp; <b>Monitoring:</b> Grafana</sub><br/><img src="https://img.shields.io/badge/Automation-2E8B57?style=flat-square" alt="Automation" /><img src="https://img.shields.io/badge/CI/CD%20Pipelines-2088FF?style=flat-square" alt="CI/CD Pipelines" />
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,grafana&perline=5" alt="DevOps Technologies"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Containerization-2496ED?style=flat-square" />
+<img src="https://img.shields.io/badge/CI%2FCD-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Monitoring-FF6F00?style=flat-square" />
+
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
+
 <h3>🔧 Developer Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,postman&perline=6" alt="Git, GitHub, VS Code, Visual Studio, Linux, Postman" /><br/><sub><b>Version control:</b> Git · GitHub &nbsp;|&nbsp; <b>IDEs:</b> VS Code · Visual Studio &nbsp;|&nbsp; <b>OS:</b> Linux</sub>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,postman&perline=6" alt="Developer Tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Code%20Editor-007ACC?style=flat-square" />
+
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
+
+<h3>⚙️ Engineering Practices</h3>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Software%20Architecture-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/System%20Design-06B6D4?style=flat-square" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Technical%20Documentation-EC4899?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation-198754?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
 <h3>⚙️ Engineering Practices</h3>
 <img src="https://img.shields.io/badge/Version%20Control-F05032?style=flat-square" alt="Version Control" /><img src="https://img.shields.io/badge/Software%20Development%20Practices-8957E5?style=flat-square" alt="Software Development Practices" /><img src="https://img.shields.io/badge/System%20Design-00B8D4?style=flat-square" alt="System Design" /><br/><img src="https://img.shields.io/badge/Technical%20Documentation-FF2E93?style=flat-square" alt="Technical Documentation" /><img src="https://img.shields.io/badge/Problem%20Solving-2088FF?style=flat-square" alt="Problem Solving" /><img src="https://img.shields.io/badge/Automation-2E8B57?style=flat-square" alt="Automation" />
 </td>
