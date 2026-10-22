@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">DATA SCIENCE</title>
+<desc id="desc">Analytics • Pipelines • Visualization</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#111827"/>
+    <stop offset="100%" stop-color="#0d1117"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00B8D4"/>
+    <stop offset="100%" stop-color="#8957E5"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".045" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<rect x="0" y="0" width="14" height="360" rx="7" fill="url(#accent)"/>
+<circle cx="1070" cy="40" r="150" fill="#8957E5" opacity=".07"/>
+<circle cx="1130" cy="330" r="190" fill="#00B8D4" opacity=".06"/>
+<path d="M55 60H160" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+<text x="58" y="101" fill="#00B8D4" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">DATA → INSIGHTS</text>
+<text x="58" y="166" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="700" letter-spacing=".6">DATA SCIENCE</text>
+<text x="58" y="210" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="21">Analytics • Pipelines • Visualization</text>
+<rect x="58" y="253" width="370" height="3" rx="1.5" fill="url(#accent)" opacity=".85"/>
+<text x="58" y="294" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">RANA HAMZA  /  ENGINEERING &amp; TECHNOLOGY</text>
+<g fill="none" stroke="#00B8D4" stroke-width="4" opacity=".85"><path d="M815 190V105M815 190H950"/><path d="m829 169 27-30 25 12 30-42 25 14"/><path d="M829 205h120" opacity=".25"/></g><g fill="#8957E5"><circle cx="856" cy="139" r="6"/><circle cx="881" cy="151" r="6"/><circle cx="911" cy="109" r="6"/><circle cx="936" cy="123" r="6"/></g>
+<text x="1125" y="320" text-anchor="end" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">01 / 12</text>
+</svg>

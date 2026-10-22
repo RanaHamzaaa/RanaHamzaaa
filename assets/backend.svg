@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">BACKEND DEVELOPMENT</title>
+<desc id="desc">FastAPI • Django • Node.js</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#111827"/>
+    <stop offset="100%" stop-color="#0d1117"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#8957E5"/>
+    <stop offset="100%" stop-color="#00F7FF"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".045" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<rect x="0" y="0" width="14" height="360" rx="7" fill="url(#accent)"/>
+<circle cx="1070" cy="40" r="150" fill="#00F7FF" opacity=".07"/>
+<circle cx="1130" cy="330" r="190" fill="#8957E5" opacity=".06"/>
+<path d="M55 60H160" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+<text x="58" y="101" fill="#8957E5" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">APIs & SERVICES</text>
+<text x="58" y="166" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="700" letter-spacing=".6">BACKEND DEVELOPMENT</text>
+<text x="58" y="210" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="21">FastAPI • Django • Node.js</text>
+<rect x="58" y="253" width="370" height="3" rx="1.5" fill="url(#accent)" opacity=".85"/>
+<text x="58" y="294" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">RANA HAMZA  /  ENGINEERING &amp; TECHNOLOGY</text>
+<g fill="none" stroke="#8957E5" stroke-width="3" opacity=".85"><rect x="818" y="94" width="132" height="43" rx="8"/><rect x="818" y="151" width="132" height="43" rx="8"/><path d="M835 116h45m-45 57h45"/><circle cx="931" cy="116" r="4" fill="#00F7FF"/><circle cx="931" cy="173" r="4" fill="#00F7FF"/></g>
+<text x="1125" y="320" text-anchor="end" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">01 / 12</text>
+</svg>
