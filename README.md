@@ -177,6 +177,7 @@ My goal is to use **AI, Data and Cloud** technologies to solve meaningful proble
 
 <table width="100%">
 
+
 <tr>
 <td width="50%" valign="top" align="center">
 
@@ -184,106 +185,124 @@ My goal is to use **AI, Data and Cloud** technologies to solve meaningful proble
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,bash,cpp&perline=5" alt="Python, JavaScript, TypeScript, Bash, C++" />
 
+<br/>
+<sub>Python · JavaScript · TypeScript · Bash · C++</sub>
+
 <br/><br/>
 
 <img src="https://img.shields.io/badge/SQL-0078D4?style=flat-square" alt="SQL" />
+<br/>
+<sub>SQL</sub>
 
 </td>
-<td width="50%" valign="top" align="center">
 
-<h3>🎨 Frontend</h3>
-
-<img src="https://skillicons.dev/icons?i=react&perline=1" alt="React" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/React%20%2F%20Frontend-20232A?style=flat-square" alt="React Frontend" />
-
-</td>
-</tr>
-
-<tr>
 <td width="50%" valign="top" align="center">
 
 <h3>✨ Generative AI &amp; LLMs</h3>
 
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openai.png" width="44" height="44" alt="OpenAI" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/claude-color.png" width="44" height="44" alt="Claude" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/gemini-color.png" width="44" height="44" alt="Gemini" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langchain-color.png" width="44" height="44" alt="LangChain" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/huggingface-color.png" width="44" height="44" alt="Hugging Face" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/ollama.png" width="44" height="44" alt="Ollama" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openai.png" width="40" height="40" alt="OpenAI" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/claude-color.png" width="40" height="40" alt="Claude" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/gemini-color.png" width="40" height="40" alt="Gemini" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langchain-color.png" width="40" height="40" alt="LangChain" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/huggingface-color.png" width="40" height="40" alt="Hugging Face" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/ollama.png" width="40" height="40" alt="Ollama" />
+
+<br/>
+<sub>OpenAI · Claude · Gemini · LangChain · Hugging Face · Ollama</sub>
 
 <br/><br/>
 
 <sub><b>Techniques &amp; Concepts</b></sub>
 <br/>
+<img src="https://img.shields.io/badge/RAG-8957E5?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF2E93?style=flat-square" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/Vector%20Databases-00B8D4?style=flat-square" alt="Vector Databases" />
 
-<img src="https://img.shields.io/badge/RAG-8957E5?style=flat-square" alt="RAG" /><img src="https://img.shields.io/badge/Prompt%20Engineering-FF2E93?style=flat-square" alt="Prompt Engineering" /><img src="https://img.shields.io/badge/Vector%20Databases-00B8D4?style=flat-square" alt="Vector Databases" />
+<br/>
+<sub>RAG · Prompt Engineering · Vector Databases</sub>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top" align="center">
 
 <h3>🗄️ Databases</h3>
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=5" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite" />
 
+<br/>
+<sub>PostgreSQL · MySQL · MongoDB · Redis · SQLite</sub>
+
 <br/><br/>
 
 <img src="https://img.shields.io/badge/SQL-0078D4?style=flat-square" alt="SQL" />
+<br/>
+<sub>SQL Databases</sub>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top" align="center">
 
 <h3>🧩 Backend &amp; APIs</h3>
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&perline=4" alt="FastAPI, Flask, Django, Node.js" />
 
+<br/>
+<sub>FastAPI · Flask · Django · Node.js</sub>
+
 <br/><br/>
 
 <img src="https://img.shields.io/badge/REST%20APIs-8957E5?style=flat-square" alt="REST APIs" />
+<br/>
+<sub>REST APIs · Backend Development</sub>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top" align="center">
 
 <h3>🚢 DevOps &amp; CI/CD</h3>
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,grafana&perline=4" alt="Docker, Kubernetes, GitHub Actions, Grafana" />
 
-<br/><br/>
-
-<sub><b>Containerization:</b> Docker · Kubernetes<br/>
-<b>CI/CD:</b> GitHub Actions<br/>
-<b>Monitoring:</b> Grafana</sub>
+<br/>
+<sub>Docker · Kubernetes · GitHub Actions · Grafana</sub>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Automation-2E8B57?style=flat-square" alt="Automation" /><img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-2088FF?style=flat-square" alt="CI/CD Pipelines" />
+<img src="https://img.shields.io/badge/Automation-2E8B57?style=flat-square" alt="Automation" />
+<img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-2088FF?style=flat-square" alt="CI/CD Pipelines" />
+
+<br/>
+<sub>Automation · CI/CD Pipelines · Monitoring</sub>
 
 </td>
-</tr>
 
-<tr>
-<td colspan="2" width="100%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 <h3>🔧 Developer Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,postman&perline=6" alt="Git, GitHub, VS Code, Visual Studio, Linux, Postman" />
 
+<br/>
+<sub>Git · GitHub · VS Code · Visual Studio · Linux · Postman</sub>
+
 <br/><br/>
 
-<sub><b>Version Control:</b> Git · GitHub &nbsp; | &nbsp; <b>IDEs:</b> VS Code · Visual Studio &nbsp; | &nbsp; <b>OS:</b> Linux</sub>
+<sub><b>Version Control:</b> Git · GitHub</sub>
+<br/>
+<sub><b>IDEs:</b> VS Code · Visual Studio</sub>
+<br/>
+<sub><b>Operating System:</b> Linux</sub>
+<br/>
+<sub><b>API Testing:</b> Postman</sub>
 
 </td>
 </tr>
+
+
 <tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="1400" height="1" alt="" /></td></tr>
 </table>
 
