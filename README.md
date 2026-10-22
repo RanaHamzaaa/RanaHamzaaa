@@ -99,7 +99,7 @@ Cloud-Based Systems
 </td>
 <td width="34%" valign="top" align="center">
 <h3>✨ Generative AI &amp; LLMs</h3>
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&labelColor=412991" /><img src="https://img.shields.io/badge/LangChain-2E8B57?style=flat-square&labelColor=2E8B57" /><img src="https://img.shields.io/badge/Hugging%20Face-E6A700?style=flat-square&labelColor=E6A700" /><br/><img src="https://img.shields.io/badge/RAG-8957E5?style=flat-square&labelColor=8957E5" /><img src="https://img.shields.io/badge/Prompt%20Engineering-FF2E93?style=flat-square&labelColor=FF2E93" /><img src="https://img.shields.io/badge/Vector%20Databases-00B8D4?style=flat-square&labelColor=00B8D4" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openai.png" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/claude-color.png" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/gemini-color.png" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langchain-color.png" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/huggingface-color.png" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/ollama.png" width="48" height="48" />&nbsp;<br/><img src="https://img.shields.io/badge/RAG-8957E5?style=flat-square" /><img src="https://img.shields.io/badge/Prompt%20Engineering-FF2E93?style=flat-square" /><img src="https://img.shields.io/badge/Vector%20Databases-00B8D4?style=flat-square" />
 </td>
 </tr>
 <tr>
@@ -123,11 +123,11 @@ Cloud-Based Systems
 </td>
 <td width="33%" valign="top" align="center">
 <h3>🚢 DevOps &amp; CI/CD</h3>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,githubactions,linux&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,githubactions,linux&perline=3" />
 </td>
 <td width="34%" valign="top" align="center">
 <h3>🔧 Dev Tools</h3>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,jupyter,postman,grafana&perline=5" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,grafana&perline=4" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" />
 </td>
 </tr>
 <tr>
