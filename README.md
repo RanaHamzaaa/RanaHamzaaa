@@ -22,20 +22,16 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
 
-## 🧬 whoami
-
-<table>
-<tr>
-<td width="62%" valign="top">
+<h2 align="center">🧬 whoami</h2>
 
 ```python
 class SoftwareEngineer:
-    name = "Rana Hamza"
-    role = "Software Engineer"
-    education = "BSCS — Computer Science"
-    focus = [
+    name           = "Rana Hamza"
+    role           = "Software Engineer"
+    education      = "BSCS — Computer Science"
+    specialization = [
         "Artificial Intelligence",
         "Machine Learning",
         "Data Science & Analytics",
@@ -46,68 +42,70 @@ class SoftwareEngineer:
         "Certified Data Science & AI Engineer",
         "Certified Cloud Engineer",
     ]
-    mindset = "Build intelligent. Scale reliably. Keep learning."
+    mindset        = "Build intelligent. Scale reliably. Keep learning."
 ```
 
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+<h3>🚀 What I Build</h3>
+<p>Intelligent software solutions powered by AI systems, machine learning models, data-driven architectures and scalable cloud platforms.</p>
 </td>
-<td width="38%" valign="top">
-
-I design and build **intelligent software solutions** using AI systems, machine learning models, data-driven architectures and **scalable cloud platforms**.
-
-My focus is engineering **scalable, reliable and intelligent systems** with modern software practices, automation and emerging technologies.
-
+<td width="33%" valign="top" align="center">
+<h3>⚙️ How I Work</h3>
+<p>Modern software practices, automation and emerging technologies, applied with a focus on clean design and reliability.</p>
+</td>
+<td width="33%" valign="top" align="center">
+<h3>🎯 My Goal</h3>
+<p>Engineer scalable, reliable and intelligent systems that turn data and AI into real-world value.</p>
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
 
-## 💼 Professional Focus
+<h2 align="center">💼 Professional Focus</h2>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-### 🤖 Artificial Intelligence
-- AI Systems & Intelligent Applications
-- Generative AI Solutions
-- AI Automation
-- AI-Powered Software Development
-
+<p align="center"><img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-8957E5?style=for-the-badge&logo=openai&logoColor=white" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4" /></p>
+🔹 AI Systems &amp; Intelligent Applications<br/>
+🔹 Generative AI Solutions<br/>
+🔹 AI Automation<br/>
+🔹 AI-Powered Software Development<br/>
 </td>
 <td width="50%" valign="top">
-
-### 🧠 Machine Learning
-- Machine Learning Models
-- Deep Learning Systems
-- Model Development & Optimization
-- Data-Driven Decision Systems
-
+<p align="center"><img src="https://img.shields.io/badge/MACHINE%20LEARNING-FF2E93?style=for-the-badge&logo=scikitlearn&logoColor=white" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,jupyter&perline=4" /></p>
+🔹 Machine Learning Models<br/>
+🔹 Deep Learning Systems<br/>
+🔹 Model Development &amp; Optimization<br/>
+🔹 Data-Driven Decision Systems<br/>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 📊 Data Engineering & Analytics
-- Data Science & Data Analytics
-- Data Engineering
-- Data Processing Pipelines
-
+<p align="center"><img src="https://img.shields.io/badge/DATA%20ENGINEERING%20%26%20ANALYTICS-00B8D4?style=for-the-badge&logo=databricks&logoColor=white" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=pandas,numpy,mysql,powerbi&perline=4" /></p>
+🔹 Data Science &amp; Data Analytics<br/>
+🔹 Data Engineering<br/>
+🔹 Data Processing Pipelines<br/>
 </td>
 <td width="50%" valign="top">
-
-### ☁️ Cloud Engineering
-- Cloud Architecture
-- Scalable Cloud Solutions
-- Cloud-Based Systems
-
+<p align="center"><img src="https://img.shields.io/badge/CLOUD%20ENGINEERING-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes&perline=4" /></p>
+🔹 Cloud Architecture<br/>
+🔹 Scalable Cloud Solutions<br/>
+🔹 Cloud-Based Systems<br/>
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
 
-## 🛠️ Technology Stack
+<h2 align="center">🛠️ Technology Stack</h2>
 
 <div align="center">
 
@@ -135,25 +133,42 @@ My focus is engineering **scalable, reliable and intelligent systems** with mode
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,docker,kubernetes,githubactions&perline=10" />
 
-</div>
+<br/>
 
-> ⚙️ **Engineering Practices:** Version Control • Software Development Practices • System Design • Technical Documentation • Problem Solving
+**⚙️ Engineering Practices**
 
----
-
-## 🎓 Education & Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎓%20BSCS-Computer%20Science-00F7FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🏆%20Certified-Data%20Science%20%26%20AI%20Engineer-8957E5?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/☁️%20Certified-Cloud%20Engineer-FF2E93?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Design-8957E5?style=flat-square&logo=diagramsdotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Technical%20Documentation-00B8D4?style=flat-square&logo=readthedocs&logoColor=white" />
+<img src="https://img.shields.io/badge/Problem%20Solving-FF2E93?style=flat-square&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
 
-## 📊 GitHub Analytics
+<h2 align="center">🎓 Education &amp; Certifications</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+<h3>🎓 Education</h3>
+<img src="https://img.shields.io/badge/BSCS-Computer%20Science-00F7FF?style=for-the-badge&labelColor=0d1117" />
+</td>
+<td width="33%" align="center" valign="top">
+<h3>🏆 Certification</h3>
+<img src="https://img.shields.io/badge/Certified-Data%20Science%20%26%20AI%20Engineer-8957E5?style=for-the-badge&labelColor=0d1117" />
+</td>
+<td width="33%" align="center" valign="top">
+<h3>☁️ Certification</h3>
+<img src="https://img.shields.io/badge/Certified-Cloud%20Engineer-FF2E93?style=for-the-badge&labelColor=0d1117" />
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
@@ -164,9 +179,9 @@ My focus is engineering **scalable, reliable and intelligent systems** with mode
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
 
-## 🌌 Contribution Matrix
+<h2 align="center">🌌 Contribution Matrix</h2>
 
 <div align="center">
 
@@ -178,9 +193,9 @@ My focus is engineering **scalable, reliable and intelligent systems** with mode
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
 
-## 🤝 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
