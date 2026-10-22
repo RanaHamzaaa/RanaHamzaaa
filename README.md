@@ -27,6 +27,7 @@
 <h2 align="center">🧬 About Me</h2>
 
 <table width="100%">
+<tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="1400" height="1" /></td></tr>
 <tr>
 <td colspan="2" width="66%" valign="top" align="center">
 <h3>👨‍💻 Rana Hamza</h3>
@@ -60,7 +61,7 @@ Data-Driven Decision Systems
 </td>
 <td width="34%" valign="top" align="center">
 <h3>📊 Data</h3>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,powerbi&perline=3" /><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />&nbsp;<br/><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&labelColor=0d1117" /><br/><br/>
 Data Science &amp; Analytics<br/>
 Data Engineering<br/>
 Data Processing Pipelines
@@ -88,6 +89,7 @@ Cloud-Based Systems
 <h2 align="center">🛠️ Technology Stack</h2>
 
 <table width="100%">
+<tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="1400" height="1" /></td></tr>
 <tr>
 <td width="33%" valign="top" align="center">
 <h3>💻 Languages</h3>
@@ -99,7 +101,7 @@ Cloud-Based Systems
 </td>
 <td width="34%" valign="top" align="center">
 <h3>📊 Data &amp; Analytics</h3>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,powerbi,matplotlib&perline=4" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />&nbsp;<br/><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&labelColor=0d1117" />
 </td>
 </tr>
 <tr>
