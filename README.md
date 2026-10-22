@@ -8,97 +8,77 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Software%20Engineer-00F7FF?style=for-the-badge&logo=codeforces&logoColor=black" />
-<img src="https://img.shields.io/badge/AI%20%26%20ML-8957E5?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Science-FF2E93?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEER-00F7FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/AI%20%26%20ML-8957E5?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-FF2E93?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CLOUD-0078D4?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/rana-hamza-22292123b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/RanaHamzaaa?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/github/followers/RanaHamzaaa?style=for-the-badge&logo=github&color=8957E5&label=Followers" />
-<img src="https://komarev.com/ghpvc/?username=RanaHamzaaa&label=Profile%20Views&color=00b8d4&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/rana-hamza-22292123b"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge" /></a>
+<a href="https://github.com/RanaHamzaaa?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/github/followers/RanaHamzaaa?style=for-the-badge&logo=github&color=8957E5&label=Followers&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=RanaHamzaaa&label=Profile%20Views&color=00b8d4&labelColor=0d1117&style=for-the-badge" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
 
-<h2 align="center">🧬 whoami</h2>
-
-```python
-class SoftwareEngineer:
-    name           = "Rana Hamza"
-    role           = "Software Engineer"
-    education      = "BSCS — Computer Science"
-    specialization = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Science & Analytics",
-        "Data Engineering",
-        "Cloud Engineering",
-    ]
-    certifications = [
-        "Certified Data Science & AI Engineer",
-        "Certified Cloud Engineer",
-    ]
-    mindset        = "Build intelligent. Scale reliably. Keep learning."
-```
+<h2 align="center">🧬 About Me</h2>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top" align="center">
-<h3>🚀 What I Build</h3>
-<p>Intelligent software solutions powered by AI systems, machine learning models, data-driven architectures and scalable cloud platforms.</p>
+<td colspan="2" width="66%" valign="top" align="center">
+<h3>👨‍💻 Rana Hamza</h3>
+<b>Software Engineer</b><br/><br/>
+I design and build <b>intelligent software solutions</b> using AI systems, machine learning models, data-driven architectures and <b>scalable cloud platforms</b>.<br/><br/>
+My focus is engineering <b>scalable, reliable and intelligent systems</b> with modern software practices, automation and emerging technologies.
 </td>
-<td width="33%" valign="top" align="center">
-<h3>⚙️ How I Work</h3>
-<p>Modern software practices, automation and emerging technologies, applied with a focus on clean design and reliability.</p>
-</td>
-<td width="33%" valign="top" align="center">
-<h3>🎯 My Goal</h3>
-<p>Engineer scalable, reliable and intelligent systems that turn data and AI into real-world value.</p>
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
-
-<h2 align="center">💼 Professional Focus</h2>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<p align="center"><img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-8957E5?style=for-the-badge&logo=openai&logoColor=white" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4" /></p>
-🔹 AI Systems &amp; Intelligent Applications<br/>
-🔹 Generative AI Solutions<br/>
-🔹 AI Automation<br/>
-🔹 AI-Powered Software Development<br/>
-</td>
-<td width="50%" valign="top">
-<p align="center"><img src="https://img.shields.io/badge/MACHINE%20LEARNING-FF2E93?style=for-the-badge&logo=scikitlearn&logoColor=white" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,jupyter&perline=4" /></p>
-🔹 Machine Learning Models<br/>
-🔹 Deep Learning Systems<br/>
-🔹 Model Development &amp; Optimization<br/>
-🔹 Data-Driven Decision Systems<br/>
+<td width="34%" valign="top" align="center">
+<h3>🎓 Education</h3>
+<img src="https://skillicons.dev/icons?i=github&perline=1" /><br/><br/>
+<b>BSCS</b><br/>
+Bachelor of Science in Computer Science
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<p align="center"><img src="https://img.shields.io/badge/DATA%20ENGINEERING%20%26%20ANALYTICS-00B8D4?style=for-the-badge&logo=databricks&logoColor=white" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=pandas,numpy,mysql,powerbi&perline=4" /></p>
-🔹 Data Science &amp; Data Analytics<br/>
-🔹 Data Engineering<br/>
-🔹 Data Processing Pipelines<br/>
+<td width="33%" valign="top" align="center">
+<h3>🤖 AI</h3>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3" /><br/><br/>
+AI Systems &amp; Intelligent Applications<br/>
+Generative AI Solutions<br/>
+AI Automation<br/>
+AI-Powered Software Development
 </td>
-<td width="50%" valign="top">
-<p align="center"><img src="https://img.shields.io/badge/CLOUD%20ENGINEERING-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes&perline=4" /></p>
-🔹 Cloud Architecture<br/>
-🔹 Scalable Cloud Solutions<br/>
-🔹 Cloud-Based Systems<br/>
+<td width="33%" valign="top" align="center">
+<h3>🧠 Machine Learning</h3>
+<img src="https://skillicons.dev/icons?i=sklearn,opencv,jupyter&perline=3" /><br/><br/>
+Machine Learning Models<br/>
+Deep Learning Systems<br/>
+Model Development &amp; Optimization<br/>
+Data-Driven Decision Systems
+</td>
+<td width="34%" valign="top" align="center">
+<h3>📊 Data</h3>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,powerbi&perline=3" /><br/><br/>
+Data Science &amp; Analytics<br/>
+Data Engineering<br/>
+Data Processing Pipelines
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<h3>☁️ Cloud</h3>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker&perline=3" /><br/><br/>
+Cloud Architecture<br/>
+Scalable Cloud Solutions<br/>
+Cloud-Based Systems
+</td>
+<td colspan="2" width="67%" valign="top" align="center">
+<h3>🏆 Certifications</h3>
+<img src="https://img.shields.io/badge/CERTIFIED-DATA%20SCIENCE%20%26%20AI%20ENGINEER-8957E5?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+<img src="https://img.shields.io/badge/CERTIFIED-CLOUD%20ENGINEER-FF2E93?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+<i>Build intelligent. Scale reliably. Keep learning.</i>
 </td>
 </tr>
 </table>
@@ -107,61 +87,43 @@ class SoftwareEngineer:
 
 <h2 align="center">🛠️ Technology Stack</h2>
 
-<div align="center">
-
-**💻 Programming Languages**
-
-<img src="https://skillicons.dev/icons?i=python,js,mysql&perline=10" />
-
-**🤖 AI, Machine Learning & Generative AI**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,jupyter&perline=10" />
-
-**📊 Data Engineering & Analytics**
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy,powerbi,matplotlib&perline=10" />
-
-**🗄️ Databases & Data Systems**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=10" />
-
-**☁️ Cloud Computing & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=azure,aws&perline=10" />
-
-**🔧 Developer Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,docker,kubernetes,githubactions&perline=10" />
-
-<br/>
-
-**⚙️ Engineering Practices**
-
-<img src="https://img.shields.io/badge/Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/System%20Design-8957E5?style=flat-square&logo=diagramsdotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Technical%20Documentation-00B8D4?style=flat-square&logo=readthedocs&logoColor=white" />
-<img src="https://img.shields.io/badge/Problem%20Solving-FF2E93?style=flat-square&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
-
-<h2 align="center">🎓 Education &amp; Certifications</h2>
-
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top">
-<h3>🎓 Education</h3>
-<img src="https://img.shields.io/badge/BSCS-Computer%20Science-00F7FF?style=for-the-badge&labelColor=0d1117" />
+<td width="33%" valign="top" align="center">
+<h3>💻 Languages</h3>
+<img src="https://skillicons.dev/icons?i=python,js,mysql&perline=3" />
 </td>
-<td width="33%" align="center" valign="top">
-<h3>🏆 Certification</h3>
-<img src="https://img.shields.io/badge/Certified-Data%20Science%20%26%20AI%20Engineer-8957E5?style=for-the-badge&labelColor=0d1117" />
+<td width="33%" valign="top" align="center">
+<h3>🤖 AI &amp; ML</h3>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4" />
 </td>
-<td width="33%" align="center" valign="top">
-<h3>☁️ Certification</h3>
-<img src="https://img.shields.io/badge/Certified-Cloud%20Engineer-FF2E93?style=for-the-badge&labelColor=0d1117" />
+<td width="34%" valign="top" align="center">
+<h3>📊 Data &amp; Analytics</h3>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,powerbi,matplotlib&perline=4" />
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=4" />
+</td>
+<td width="33%" valign="top" align="center">
+<h3>☁️ Cloud</h3>
+<img src="https://skillicons.dev/icons?i=azure,aws&perline=2" />
+</td>
+<td width="34%" valign="top" align="center">
+<h3>🔧 Tools &amp; DevOps</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,docker,kubernetes,githubactions&perline=4" />
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center">
+<h3>⚙️ Engineering Practices</h3>
+<img src="https://img.shields.io/badge/Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Software%20Development%20Practices-8957E5?style=flat-square" />
+<img src="https://img.shields.io/badge/System%20Design-00B8D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Technical%20Documentation-FF2E93?style=flat-square" />
+<img src="https://img.shields.io/badge/Problem%20Solving-2088FF?style=flat-square" />
 </td>
 </tr>
 </table>
@@ -203,8 +165,8 @@ class SoftwareEngineer:
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rana-hamza-22292123b"><img src="https://img.shields.io/badge/LinkedIn-Rana%20Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/RanaHamzaaa"><img src="https://img.shields.io/badge/GitHub-RanaHamzaaa-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rana-hamza-22292123b"><img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20LINKEDIN-0A66C2?style=for-the-badge" /></a>
+<a href="https://github.com/RanaHamzaaa"><img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
