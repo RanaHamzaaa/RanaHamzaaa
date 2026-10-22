@@ -163,7 +163,7 @@ My goal is to use **AI, Data and Cloud** technologies to solve meaningful proble
 
 <h2 align="center">🎓 Education &amp; Certifications</h2>
 
-<table width="100%">
+<table width="130%">
 <tr>
 <td width="33%" align="center" valign="top"><h3>🎓 Education</h3><img src="https://img.shields.io/badge/BSCS%20·%20Computer%20Science-00B8D4?style=for-the-badge" alt="BSCS · Computer Science" /></td>
 <td width="33%" align="center" valign="top"><h3>🏆 Certification</h3><img src="https://img.shields.io/badge/Certified%20Data%20Science%20%26%20AI%20Engineer-8957E5?style=for-the-badge" alt="Certified Data Science & AI Engineer" /></td>
