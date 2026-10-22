@@ -52,7 +52,7 @@ AI-Powered Software Development
 </td>
 <td width="33%" valign="top" align="center">
 <h3>🧠 Machine Learning</h3>
-<img src="https://skillicons.dev/icons?i=sklearn,opencv,jupyter&perline=3" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=sklearn,opencv&perline=2" /><br/><br/>
 Machine Learning Models<br/>
 Deep Learning Systems<br/>
 Model Development &amp; Optimization<br/>
@@ -60,7 +60,8 @@ Data-Driven Decision Systems
 </td>
 <td width="34%" valign="top" align="center">
 <h3>📊 Data</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />&nbsp;<br/><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&labelColor=0d1117" /><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" height="48" />&nbsp;<br/><img src="https://img.shields.io/badge/Pandas-5B3FD0?style=flat-square" /><img src="https://img.shields.io/badge/Power%20BI-C99A00?style=flat-square" /><img src="https://img.shields.io/badge/ETL-00B8D4?style=flat-square" />
+<br/><br/>
 Data Science &amp; Analytics<br/>
 Data Engineering<br/>
 Data Processing Pipelines
@@ -76,8 +77,8 @@ Cloud-Based Systems
 </td>
 <td colspan="2" width="67%" valign="top" align="center">
 <h3>🏆 Certifications</h3>
-<img src="https://img.shields.io/badge/CERTIFIED-DATA%20SCIENCE%20%26%20AI%20ENGINEER-8957E5?style=for-the-badge&labelColor=0d1117" /><br/><br/>
-<img src="https://img.shields.io/badge/CERTIFIED-CLOUD%20ENGINEER-FF2E93?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+<img src="https://img.shields.io/badge/CERTIFIED%20DATA%20SCIENCE%20%26%20AI%20ENGINEER-8957E5?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/CERTIFIED%20CLOUD%20ENGINEER-FF2E93?style=for-the-badge" /><br/><br/>
 <i>Build intelligent. Scale reliably. Keep learning.</i>
 </td>
 </tr>
