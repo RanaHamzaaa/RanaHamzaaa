@@ -152,35 +152,14 @@ My goal is to use **AI, Data and Cloud** technologies to solve meaningful proble
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
 
-<h2 align="center">💼 Professional Focus</h2>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-<h3>🤖 Artificial Intelligence</h3>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3" alt="Python, TensorFlow, PyTorch" /><br/><br/>
-AI Systems &amp; Intelligent Applications<br/>Generative AI Solutions<br/>AI Automation<br/>AI-Powered Software Development<br/>&nbsp;
-</td>
-<td width="50%" valign="top" align="center">
-<h3>🧠 Machine Learning</h3>
-<img src="https://skillicons.dev/icons?i=sklearn,opencv&perline=2" alt="scikit-learn, OpenCV" /><br/><br/>
-Machine Learning Models<br/>Deep Learning Systems<br/>Model Development &amp; Optimization<br/>Data-Driven Decision Systems<br/>&nbsp;
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-<h3>📊 Data Engineering &amp; Analytics</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="Apache Spark" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Apache Airflow" />&nbsp;<br/><img src="https://img.shields.io/badge/Pandas-5B3FD0?style=flat-square" alt="Pandas" /><img src="https://img.shields.io/badge/Power%20BI%20·%20Data%20Analytics-C99A00?style=flat-square" alt="Power BI · Data Analytics" /><img src="https://img.shields.io/badge/ETL-00B8D4?style=flat-square" alt="ETL" /><br/><br/>
-Data Science &amp; Analytics<br/>Data Engineering<br/>Data Processing Pipelines<br/>&nbsp;
-</td>
-<td width="50%" valign="top" align="center">
-<h3>☁️ Cloud Engineering</h3>
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform&perline=4" alt="Azure, AWS, Google Cloud, Terraform" /><br/><img src="https://img.shields.io/badge/Terraform%20·%20Infrastructure%20as%20Code-7B42BC?style=flat-square" alt="Terraform · Infrastructure as Code" /><br/><br/>
-Cloud Architecture<br/>Scalable Cloud Solutions<br/>Cloud-Based Systems<br/>&nbsp;
-</td>
-</tr>
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="1400" height="1" alt="" /></td></tr>
-</table>
+<div align="center">
+  <img
+    src="./professional-focus.png"
+    alt="Professional Focus"
+    width="100%"
+  />
+</div>
 
 <h2 align="center">🎓 Education &amp; Certifications</h2>
 
@@ -197,48 +176,144 @@ Cloud Architecture<br/>Scalable Cloud Solutions<br/>Cloud-Based Systems<br/>&nbs
 <h2 align="center">🛠️ Technology Stack</h2>
 
 <table width="100%">
+
+
 <tr>
 <td width="50%" valign="top" align="center">
+
 <h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,js,ts,bash,cpp&perline=5" alt="Python, JavaScript, TypeScript, Bash, C++" /><br/><img src="https://img.shields.io/badge/SQL-0078D4?style=flat-square" alt="SQL" />
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,bash,cpp&perline=5" alt="Python, JavaScript, TypeScript, Bash, C++" />
+
+<br/>
+<sub>Python · JavaScript · TypeScript · Bash · C++</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL-0078D4?style=flat-square" alt="SQL" />
+<br/>
+<sub>SQL</sub>
+
 </td>
+
 <td width="50%" valign="top" align="center">
-<h3>🎨 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react&perline=1" alt="React" /><br/><img src="https://img.shields.io/badge/React · Frontend-20232A?style=flat-square" alt="React · Frontend" />
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+
 <h3>✨ Generative AI &amp; LLMs</h3>
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openai.png" width="44" height="44" alt="OpenAI" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/claude-color.png" width="44" height="44" alt="Claude" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/gemini-color.png" width="44" height="44" alt="Gemini" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langchain-color.png" width="44" height="44" alt="LangChain" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/huggingface-color.png" width="44" height="44" alt="Hugging Face" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/ollama.png" width="44" height="44" alt="Ollama" />&nbsp;<br/><sub><b>Techniques &amp; concepts</b></sub><br/><img src="https://img.shields.io/badge/RAG-8957E5?style=flat-square" alt="RAG" /><img src="https://img.shields.io/badge/Prompt%20Engineering-FF2E93?style=flat-square" alt="Prompt Engineering" /><img src="https://img.shields.io/badge/Vector%20Databases-00B8D4?style=flat-square" alt="Vector Databases" />
+
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openai.png" width="40" height="40" alt="OpenAI" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/claude-color.png" width="40" height="40" alt="Claude" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/gemini-color.png" width="40" height="40" alt="Gemini" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langchain-color.png" width="40" height="40" alt="LangChain" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/huggingface-color.png" width="40" height="40" alt="Hugging Face" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/ollama.png" width="40" height="40" alt="Ollama" />
+
+<br/>
+<sub>OpenAI · Claude · Gemini · LangChain · Hugging Face · Ollama</sub>
+
+<br/><br/>
+
+<sub><b>Techniques &amp; Concepts</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/RAG-8957E5?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF2E93?style=flat-square" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/Vector%20Databases-00B8D4?style=flat-square" alt="Vector Databases" />
+
+<br/>
+<sub>RAG · Prompt Engineering · Vector Databases</sub>
+
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top" align="center">
+
 <h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=5" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite" /><br/><img src="https://img.shields.io/badge/SQL-0078D4?style=flat-square" alt="SQL" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=5" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite" />
+
+<br/>
+<sub>PostgreSQL · MySQL · MongoDB · Redis · SQLite</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL-0078D4?style=flat-square" alt="SQL" />
+<br/>
+<sub>SQL Databases</sub>
+
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top" align="center">
+
 <h3>🧩 Backend &amp; APIs</h3>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&perline=4" alt="FastAPI, Flask, Django, Node.js" /><br/><img src="https://img.shields.io/badge/REST%20APIs-8957E5?style=flat-square" alt="REST APIs" />
-</td>
-<td width="50%" valign="top" align="center">
-<h3>🚢 DevOps &amp; CI/CD</h3>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,grafana&perline=4" alt="Docker, Kubernetes, GitHub Actions, Grafana" /><br/><sub><b>Containerization:</b> Docker · Kubernetes &nbsp;|&nbsp; <b>CI/CD:</b> GitHub Actions &nbsp;|&nbsp; <b>Monitoring:</b> Grafana</sub><br/><img src="https://img.shields.io/badge/Automation-2E8B57?style=flat-square" alt="Automation" /><img src="https://img.shields.io/badge/CI/CD%20Pipelines-2088FF?style=flat-square" alt="CI/CD Pipelines" />
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&perline=4" alt="FastAPI, Flask, Django, Node.js" />
+
+<br/>
+<sub>FastAPI · Flask · Django · Node.js</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-8957E5?style=flat-square" alt="REST APIs" />
+<br/>
+<sub>REST APIs · Backend Development</sub>
+
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top" align="center">
-<h3>🔧 Developer Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,postman&perline=6" alt="Git, GitHub, VS Code, Visual Studio, Linux, Postman" /><br/><sub><b>Version control:</b> Git · GitHub &nbsp;|&nbsp; <b>IDEs:</b> VS Code · Visual Studio &nbsp;|&nbsp; <b>OS:</b> Linux</sub>
+
+<h3>🚢 DevOps &amp; CI/CD</h3>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,grafana&perline=4" alt="Docker, Kubernetes, GitHub Actions, Grafana" />
+
+<br/>
+<sub>Docker · Kubernetes · GitHub Actions · Grafana</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Automation-2E8B57?style=flat-square" alt="Automation" />
+<img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-2088FF?style=flat-square" alt="CI/CD Pipelines" />
+
+<br/>
+<sub>Automation · CI/CD Pipelines · Monitoring</sub>
+
 </td>
+
+<td width="50%" valign="top" align="center">
+
+<h3>🔧 Developer Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,postman&perline=6" alt="Git, GitHub, VS Code, Visual Studio, Linux, Postman" />
+
+<br/>
+<sub>Git · GitHub · VS Code · Visual Studio · Linux · Postman</sub>
+
+<br/><br/>
+
+<sub><b>Version Control:</b> Git · GitHub</sub>
+<br/>
+<sub><b>IDEs:</b> VS Code · Visual Studio</sub>
+<br/>
+<sub><b>Operating System:</b> Linux</sub>
+<br/>
+<sub><b>API Testing:</b> Postman</sub>
+
+</td>
+</tr>
+
+
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="1400" height="1" alt="" /></td></tr>
+</table>
+
+
+
 <td width="50%" valign="top" align="center">
 <h3>⚙️ Engineering Practices</h3>
 <img src="https://img.shields.io/badge/Version%20Control-F05032?style=flat-square" alt="Version Control" /><img src="https://img.shields.io/badge/Software%20Development%20Practices-8957E5?style=flat-square" alt="Software Development Practices" /><img src="https://img.shields.io/badge/System%20Design-00B8D4?style=flat-square" alt="System Design" /><br/><img src="https://img.shields.io/badge/Technical%20Documentation-FF2E93?style=flat-square" alt="Technical Documentation" /><img src="https://img.shields.io/badge/Problem%20Solving-2088FF?style=flat-square" alt="Problem Solving" /><img src="https://img.shields.io/badge/Automation-2E8B57?style=flat-square" alt="Automation" />
 </td>
-</tr>
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="1400" height="1" alt="" /></td></tr>
-</table>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
