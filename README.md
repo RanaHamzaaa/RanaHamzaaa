@@ -162,10 +162,6 @@ Cloud-Based Systems
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RanaHamzaaa&bg_color=0D1117&color=00F7FF&line=8957e5&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/RanaHamzaaa/RanaHamzaaa/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
