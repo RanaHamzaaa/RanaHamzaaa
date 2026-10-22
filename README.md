@@ -152,35 +152,14 @@ My goal is to use **AI, Data and Cloud** technologies to solve meaningful proble
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
 
-<h2 align="center">💼 Professional Focus</h2>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-<h3>🤖 Artificial Intelligence</h3>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3" alt="Python, TensorFlow, PyTorch" /><br/><br/>
-AI Systems &amp; Intelligent Applications<br/>Generative AI Solutions<br/>AI Automation<br/>AI-Powered Software Development<br/>&nbsp;
-</td>
-<td width="50%" valign="top" align="center">
-<h3>🧠 Machine Learning</h3>
-<img src="https://skillicons.dev/icons?i=sklearn,opencv&perline=2" alt="scikit-learn, OpenCV" /><br/><br/>
-Machine Learning Models<br/>Deep Learning Systems<br/>Model Development &amp; Optimization<br/>Data-Driven Decision Systems<br/>&nbsp;
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-<h3>📊 Data Engineering &amp; Analytics</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="Apache Spark" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Apache Airflow" />&nbsp;<br/><img src="https://img.shields.io/badge/Pandas-5B3FD0?style=flat-square" alt="Pandas" /><img src="https://img.shields.io/badge/Power%20BI%20·%20Data%20Analytics-C99A00?style=flat-square" alt="Power BI · Data Analytics" /><img src="https://img.shields.io/badge/ETL-00B8D4?style=flat-square" alt="ETL" /><br/><br/>
-Data Science &amp; Analytics<br/>Data Engineering<br/>Data Processing Pipelines<br/>&nbsp;
-</td>
-<td width="50%" valign="top" align="center">
-<h3>☁️ Cloud Engineering</h3>
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform&perline=4" alt="Azure, AWS, Google Cloud, Terraform" /><br/><img src="https://img.shields.io/badge/Terraform%20·%20Infrastructure%20as%20Code-7B42BC?style=flat-square" alt="Terraform · Infrastructure as Code" /><br/><br/>
-Cloud Architecture<br/>Scalable Cloud Solutions<br/>Cloud-Based Systems<br/>&nbsp;
-</td>
-</tr>
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="1400" height="1" alt="" /></td></tr>
-</table>
+<div align="center">
+  <img
+    src="./professional-focus.svg"
+    alt="Professional Focus"
+    width="100%"
+  />
+</div>
 
 <h2 align="center">🎓 Education &amp; Certifications</h2>
 
