@@ -155,11 +155,12 @@ My goal is to use **AI, Data and Cloud** technologies to solve meaningful proble
 
 <div align="center">
   <img
-    src="./professional-focus.svg"
+    src="./professional-focus.png"
     alt="Professional Focus"
     width="100%"
   />
 </div>
+
 
 <h2 align="center">🎓 Education &amp; Certifications</h2>
 
